@@ -1,3 +1,20 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+* {
+  color: #3a3c6b;
+}
+
+a {
+  text-decoration: none;
+  color: #3a3c6b;
+}
+
 .App {
   text-align: center;
 }
